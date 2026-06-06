@@ -79,3 +79,7 @@ Data Scientist | Data Analyst | AI Automation Specialist
 ## ⭐ Live Application
 
 https://bank-ai-ml-system-e2p7ak9ydjvcp7wcd7x8sr.streamlit.app/
+
+## Application Preview
+
+[![AI Bank Marketing Dashboard](dashboard.png)](https://bank-ai-ml-system-e2p7ak9ydjvcp7wcd7x8sr.streamlit.app/)
