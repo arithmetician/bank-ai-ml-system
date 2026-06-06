@@ -1,48 +1,81 @@
-# 🏦 AI Bank Marketing Intelligence System
+# 🏦 AI Bank Marketing Intelligence Dashboard
+
+An end to end Machine Learning application built with Streamlit for predicting customer subscription likelihood in a bank marketing campaign.
+
+## 🚀 Live Demo
+
+**Application URL**
+
+https://bank-ai-ml-system-e2p7ak9ydjvcp7wcd7x8sr.streamlit.app/
 
 ## 📌 Project Overview
-This project is an end-to-end Machine Learning system that predicts whether a bank customer will subscribe to a term deposit based on marketing campaign data. The model is deployed as an interactive web application using Streamlit.
 
----
+This project leverages Machine Learning to predict whether a customer is likely to subscribe to a bank term deposit based on demographic, financial, and marketing campaign attributes.
 
-## 🎯 Objective
-To build a production-style Machine Learning system that demonstrates:
-- Data preprocessing
-- Feature engineering
-- Model training and evaluation
-- Deployment as a web application
-- Business-oriented insights
+The application provides:
 
----
+* Real time customer subscription prediction
+* Probability scoring
+* Business insights and recommendations
+* Customer segmentation
+* Feature importance visualization
+* Analytics dashboard
+* Downloadable prediction reports
 
-## 🧠 Key Features
-- Customer subscription prediction (Yes/No)
-- Probability scoring for predictions
-- Interactive dashboard UI (Streamlit)
-- Downloadable prediction reports
-- Real-time inference system
+## 🛠️ Technologies Used
 
----
+* Python
+* Streamlit
+* Scikit Learn
+* Pandas
+* Matplotlib
+* Joblib
 
-## 📊 Dataset
-Bank Marketing Dataset (UCI Machine Learning Repository)
+## 📊 Features
 
----
+* Interactive prediction interface
+* Customer profiling dashboard
+* Machine Learning powered decision support
+* Prediction confidence scoring
+* Feature importance analysis
+* Historical prediction analytics
+* CSV report export
 
-## ⚙️ Tech Stack
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Joblib
-- Streamlit
+## 📂 Input Features
 
----
+* Age
+* Job
+* Marital Status
+* Education
+* Credit Default
+* Account Balance
+* Housing Loan
+* Personal Loan
+* Contact Type
+* Day of Contact
+* Month
+* Call Duration
+* Campaign Contacts
+* Previous Contact Days
+* Previous Contacts
+* Previous Campaign Outcome
 
-## 🚀 How to Run Locally
+## 🎯 Business Value
 
-```bash
-git clone https://github.com/arithmetician/bank-ai-ml-system.git
-cd bank-ai-ml-system
-pip install -r requirements.txt
-streamlit run app.py
+The system helps marketing teams:
+
+* Identify high value prospects
+* Prioritize customer outreach
+* Improve campaign efficiency
+* Increase subscription conversion rates
+* Support data driven marketing decisions
+
+## 👨‍💻 Developer
+
+**Adepoju Ibrahim Isola**
+
+Data Scientist | Data Analyst | AI Automation Specialist
+
+## ⭐ Live Application
+
+https://bank-ai-ml-system-e2p7ak9ydjvcp7wcd7x8sr.streamlit.app/
