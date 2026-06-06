@@ -397,4 +397,3 @@ if st.button("🚀 Run Prediction"):
         file_name="bank_prediction_report.csv",
         mime="text/csv"
     )
-```
